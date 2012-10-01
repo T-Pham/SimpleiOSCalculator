@@ -24,6 +24,8 @@
 		971F2BE0161945220035EB75 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 971F2BDE161945220035EB75 /* InfoPlist.strings */; };
 		971F2BE3161945220035EB75 /* CalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 971F2BE2161945220035EB75 /* CalculatorTests.m */; };
 		9780FDB21619733000FE8091 /* CasioLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9780FDB11619733000FE8091 /* CasioLogo.png */; };
+		97B27F471619A2C500CE4988 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 97B27F461619A2C500CE4988 /* Icon.png */; };
+		97B27F491619A2CE00CE4988 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 97B27F481619A2CE00CE4988 /* Icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +62,8 @@
 		971F2BE1161945220035EB75 /* CalculatorTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CalculatorTests.h; sourceTree = "<group>"; };
 		971F2BE2161945220035EB75 /* CalculatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculatorTests.m; sourceTree = "<group>"; };
 		9780FDB11619733000FE8091 /* CasioLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CasioLogo.png; sourceTree = "<group>"; };
+		97B27F461619A2C500CE4988 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		97B27F481619A2CE00CE4988 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +93,8 @@
 		971F2BA2161945220035EB75 = {
 			isa = PBXGroup;
 			children = (
+				97B27F481619A2CE00CE4988 /* Icon@2x.png */,
+				97B27F461619A2C500CE4988 /* Icon.png */,
 				9780FDB11619733000FE8091 /* CasioLogo.png */,
 				971F2BB7161945220035EB75 /* Calculator */,
 				971F2BDB161945220035EB75 /* CalculatorTests */,
@@ -241,6 +247,8 @@
 				971F2BC8161945220035EB75 /* Default-568h@2x.png in Resources */,
 				971F2BCE161945220035EB75 /* TPMViewController.xib in Resources */,
 				9780FDB21619733000FE8091 /* CasioLogo.png in Resources */,
+				97B27F471619A2C500CE4988 /* Icon.png in Resources */,
+				97B27F491619A2CE00CE4988 /* Icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
